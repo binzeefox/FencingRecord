@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<litepal>
+    <dbname value="FencingRecord"/>
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.binzee.fencing.fencingrecord.model.RecordBean"/>
+    </list>
+
+    <!--/storage/sdcard1/Android/data/应用包名/files/databases-->
+    <!--<storage value="external" />-->
+</litepal>
